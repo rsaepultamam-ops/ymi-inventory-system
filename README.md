@@ -1,0 +1,1 @@
+# ymi-inventory-system
